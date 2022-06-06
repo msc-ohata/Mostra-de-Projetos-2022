@@ -1,7 +1,7 @@
-### BEM VINDO A MOSTRA DE PROJETO 2022 (PRIMEIRO SEMESTRE)
-## ANÁLISE E DESENVOLVIMENTO DE SISTEMAS E JOGOS DIGITAIS
+## BEM VINDO A MOSTRA DE PROJETO 2022 (PRIMEIRO SEMESTRE)
+### ANÁLISE E DESENVOLVIMENTO DE SISTEMAS E JOGOS DIGITAIS
 
-# SOBRE O EVENTO
+### SOBRE O EVENTO
 A mostra de projetos é um evento semestral onde os alunos dos cursos de graduação em tecnologia da Facens apresentam, os mais diversos tipos de projetos, desenvolvidos durante a disciplina de Fábrica de Projetos.
 
 A disciplina de Fábrica de Projeto permite ao aluno desenvolver um projeto que consiga envolver todas as disciplinas estudas por ele durante o todo o semestre, dessa forma o aluno além de práticar o conhecimento adquirido e também criar portifólios, o tornando assim mais atrativo em entrevista e no mercado de trabalho.
