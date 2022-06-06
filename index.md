@@ -9,10 +9,10 @@ A disciplina de Fábrica de Projeto permite ao aluno desenvolver um projeto que 
 ### PARTICIPAÇÃO
 
 O evento irá ocorrer no auditório da FACENS nas seguintes datas:
-<br><b>Terça, 07 de Junho de 2022 e Quarta, 08 de Junho de 2022<b>
-Horário
-Terça  ás: 19h00 - 20h40
-Quarta ás: 19h00 - 20h40
+<br><b>Terça, 07 de Junho de 2022 ás 19h00 até 20h40
+<br>Quarta, 08 de Junho de 2022 ás 19h00 até 20h40<b>
+
+
 
 
 ```markdown
