@@ -42,7 +42,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 ### EQUIPES PARTICIPANTES
   
 [ARENA ACE] - VOLUNTARIEI
-<br>Descrição: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
-<br>Alunos: Carlos Eduardo de Lima, Eduardo Murillo, Guilherme Barros, Luiz Eduardo Arruda Camargo, Matheus Thommesani Marcelino Morais, Rômulo Augusto.
-<br>Curso: Análise e Desenvolvimento de Sistemas
-<br>Link: https://youtu.be/IRsI5H2BRGM
+<br>-Descrição: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
+<br>-Alunos: Carlos Eduardo de Lima, Eduardo Murillo, Guilherme Barros, Luiz Eduardo Arruda Camargo, Matheus Thommesani Marcelino Morais, Rômulo Augusto.
+<br>-Curso: Análise e Desenvolvimento de Sistemas
+<br>-[Apresentação Gravada](https://youtu.be/IRsI5H2BRGM)
