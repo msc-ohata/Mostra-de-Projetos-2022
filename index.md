@@ -16,47 +16,32 @@ O evento irá ocorrer no auditório da FACENS nas seguintes datas:
 
 Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma nota de 0 a 10 considerando de modo geral:
 <b>1 - Postura na apresentação:
+  
 ■ Apresentação visual de forma clara e organizada;
+  
 ■ Sem erros gramaticais e ortográficos;
+  
 ■ Apresentação oral clara e precisa.
 
 <b>2 - Inovação:
+  
 ■ Apresentação das soluções para cada desafio identificado;
+  
 ■ Se a aplicação é voltada para fins sociais ou comerciais; 
+  
 ■ Justificativa da solução escolhida para cada desafio.
 
 3 - Qualidade técnica:
+  
 ■ Evidência das soluções (código-fonte, telas desenvolvidas, protótipos, documentação/requisitos ou modelos).
+  
 ■ Apresentação clara das tecnologias escolhidas e sua utilização no desenvolvimento do projeto.
 
-<b>Formulário de avaliação:
+<b><br>Formulário de avaliação:
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msc-ohata/mostra_de_projetos_2022_1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### EQUIPES PARTICIPANTES
+  
+[ARENA ACE] - VOLUNTARIEI: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
+Alunos: Carlos Eduardo de Lima, Eduardo Murillo, Guilherme Barros, Luiz Eduardo Arruda Camargo, Matheus Thommesani Marcelino Morais, Rômulo Augusto.
+Curso: Análise e Desenvolvimento de Sistemas
+Link: https://youtu.be/IRsI5H2BRGM
