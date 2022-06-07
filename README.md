@@ -48,7 +48,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Alunos: Carlos Lima, Eduardo Murillo, Guilherme Barros, Luiz Camargo, Matheus Morais, Rômulo Augusto.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
 <br>-Pitch do Projeto: (https://youtu.be/IRsI5H2BRGM)
-<br>-Trello: (https://trello.com/b/13GtxlYW/voluntariei)
+<br>-Trello: [https://trello.com/b/13GtxlYW/voluntariei](https://trello.com/b/13GtxlYW/voluntariei)
 <br>-Github:    
 
   
