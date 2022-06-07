@@ -15,7 +15,7 @@ O evento irá ocorrer no auditório da FACENS nas seguintes datas:
 ### AVALIAÇÃO DOS GRUPOS
 
 Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma nota de 0 a 10 considerando de modo geral:
-<b>1 - Postura na apresentação:
+<br>1 - Postura na apresentação:
   
 ■ Apresentação visual de forma clara e organizada;
   
@@ -23,7 +23,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Apresentação oral clara e precisa.
 
-<b>2 - Inovação:
+<br>2 - Inovação:
   
 ■ Apresentação das soluções para cada desafio identificado;
   
@@ -31,7 +31,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Justificativa da solução escolhida para cada desafio.
 
-3 - Qualidade técnica:
+<br>3 - Qualidade técnica:
   
 ■ Evidência das soluções (código-fonte, telas desenvolvidas, protótipos, documentação/requisitos ou modelos).
   
@@ -158,7 +158,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 [NONAME] - Bosque Galdua
 <br>-Descrição: O jogo conta a história do guardião do Bosque Galdua, que tem a missão de restaurar a ordem que foi corrompida por uma maldição.
 <br>-Alunos: Alan Brandi, Ana Inoue, Frederico Proença, Thiago Carvalho, Thomas Holway.
-<br>-Curso: Jogos Digitais  
+<br>-Curso: Jogos Digitais
 <br>-Pitch do Projeto: (https://www.youtube.com/watch?v=7RgBBhfl3Y4)  
   
 [OLD MONKEY] - Murilo Kat
