@@ -17,7 +17,7 @@ O evento irá ocorrer no auditório da FACENS nas seguintes datas:
 ### AVALIAÇÃO DOS GRUPOS
 
 Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma nota de 0 a 10 considerando de modo geral:
-<br>1 - Postura na apresentação:
+<br><b>1 - Postura na apresentação:
   
 ■ Apresentação visual de forma clara e organizada;
   
@@ -25,7 +25,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Apresentação oral clara e precisa.
 
-<br>2 - Inovação:
+<br><b>2 - Inovação:
   
 ■ Apresentação das soluções para cada desafio identificado;
   
@@ -33,7 +33,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Justificativa da solução escolhida para cada desafio.
 
-<br>3 - Qualidade técnica:
+<br><b>3 - Qualidade técnica:
   
 ■ Evidência das soluções (código-fonte, telas desenvolvidas, protótipos, documentação/requisitos ou modelos).
   
