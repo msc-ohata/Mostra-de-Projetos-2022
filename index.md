@@ -8,7 +8,7 @@ A mostra de projetos é um evento semestral onde os alunos dos cursos de gradua�
 
 A disciplina de Fábrica de Projeto permite ao aluno desenvolver um projeto que consiga envolver todas as disciplinas estudas por ele durante o todo o semestre, dessa forma o aluno além de práticar o conhecimento adquirido e também criar portifólios, o tornando assim mais atrativo em entrevista e no mercado de trabalho.
 
-##### DATA E HORÁRIO
+### DATA E HORÁRIO
 O evento irá ocorrer no auditório da FACENS nas seguintes datas:
 <br><b>Terça, 07 de Junho de 2022 ás 19h00 até 20h40
 <br>Quarta, 08 de Junho de 2022 ás 19h00 até 20h40<b>
