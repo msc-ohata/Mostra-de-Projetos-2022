@@ -1,7 +1,7 @@
 ## MOSTRA DE PROJETO 2022 (PRIMEIRO SEMESTRE)
 ### CURSO DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS E JOGOS DIGITAIS
 
-<CENTER>### --ESTÁ PÁGINA É DESTINADA SOMENTE PARA OS PROFESSORES E CONVIDADOS--</CENTER>
+### --ESTÁ PÁGINA É DESTINADA SOMENTE PARA OS PROFESSORES E CONVIDADOS--
 
 ### SOBRE O EVENTO
 A mostra de projetos é um evento semestral onde os alunos dos cursos de graduação em tecnologia da Facens apresentam, os mais diversos tipos de projetos, desenvolvidos durante a disciplina de Fábrica de Projetos.
