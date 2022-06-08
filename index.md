@@ -16,7 +16,7 @@ O evento irá ocorrer no auditório da FACENS nas seguintes datas:
 
 Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma nota de 0 a 10 considerando de modo geral:
 
-<br># 1 - Postura na apresentação:
+<br>1 - Postura na apresentação:
   
 ■ Apresentação visual de forma clara e organizada;
   
@@ -24,7 +24,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Apresentação oral clara e precisa.
 
-<br># 2 - Inovação:
+<br>2 - Inovação:
   
 ■ Apresentação de uma solução para o desafio levantado;
   
@@ -32,7 +32,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Justificativa da solução escolhida para cada desafio.
 
-<br># 3 - Qualidade técnica:
+<br>3 - Qualidade técnica:
   
 ■ Evidência das soluções (código-fonte, telas desenvolvidas, protótipos, documentação/requisitos ou modelos).
   
@@ -118,8 +118,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Curso: Análise e Desenvolvimento de Sistemas
 <br>-Pitch do Projeto: <a href="https://youtu.be/uMJwl89Aa5s">https://youtu.be/uMJwl89Aa5s</a>
   
-#[WORKER´S] - HELPER´S
-  
+#[WORKER´S] - HELPER´S  
 <br>-Descrição: Ferramenta de auxilio para pessoas que sofrem agressão e precisam de apoio.
 <br>-Alunos: Gabriel Silva e Nelson Baldo.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
