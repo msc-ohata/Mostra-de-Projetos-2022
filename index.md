@@ -1,3 +1,4 @@
+# FACENS CURSOS TECNOLÓGICOS
 ## MOSTRA DE PROJETO 2022 (PRIMEIRO SEMESTRE)
 ### CURSO DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS E JOGOS DIGITAIS
 
@@ -39,11 +40,9 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
   
 ■ Apresentação clara das tecnologias escolhidas e sua utilização no desenvolvimento do projeto.
 
-<b><br>Formulário de avaliação:
-
 ### EQUIPES PARTICIPANTES
  
-<b>[ARENA ACE] - Voluntariei</b>
+[ARENA ACE] - Voluntariei</b>
 <br>-Descrição: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
 <br>-Alunos: Carlos Lima, Eduardo Murillo, Guilherme Barros, Luiz Camargo, Matheus Morais, Rômulo Augusto.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
