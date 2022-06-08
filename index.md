@@ -47,7 +47,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Descrição: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
 <br>-Alunos: Carlos Lima, Eduardo Murillo, Guilherme Barros, Luiz Camargo, Matheus Morais, Rômulo Augusto.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
-<br>-Pitch do Projeto: (https://youtu.be/IRsI5H2BRGM)
+<br>-Pitch do Projeto: <a href="https://youtu.be/IRsI5H2BRGM">https://youtu.be/IRsI5H2BRGM</a>
   
 [DATAPUSH] - Thoth
 <br>-Descrição: Plataforma dedicada a aprendizagem através de cursos e debates sobre temas educacionais.
@@ -60,7 +60,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Alunos: Aline Barbosa.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
 <br>-Pitch do Projeto:
-<br>-Trello: (https://trello.com/b/gC9Vgs5W/endless-ideas)
+<br>-Trello: <a href="https://trello.com/b/gC9Vgs5W/endless-ideas">https://trello.com/b/gC9Vgs5W/endless-ideas</a>
   
 [GAMERZONE] - MyCV
 <br>-Descrição: Plataforma voltada para auxilio de profissionais que buscam um novo emprego.
