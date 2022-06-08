@@ -40,7 +40,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 
 ### EQUIPES PARTICIPANTES
  
-# [ARENA ACE] - Voluntariei
+#### [ARENA ACE] - Voluntariei
 <br>-Descrição: O projeto busca auxiliar a interação entre voluntários e centros sociais (ONGs).
 <br>-Alunos: Carlos Lima, Eduardo Murillo, Guilherme Barros, Luiz Camargo, Matheus Morais, Rômulo Augusto.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
