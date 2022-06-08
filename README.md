@@ -132,7 +132,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Github:     
 
   
-[Sem Nome] - #VC NA CORRIDA
+[StartPoint] - #VC NA CORRIDA
 <br>-Descrição: Aplicativo que cria e acompanha o desenvolvimento de pessoas em corridas de rua.
 <br>-Alunos: Matheus Castanho e Willian Júnior .
 <br>-Curso: Análise e Desenvolvimento de Sistemas
@@ -167,6 +167,13 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Trello: (https://trello.com/b/lZdY9M0T/fabrica-v-time-vision)
 <br>-Github: (https://github.com/GroupVision)    
 
+[WORKER´S] - Helper´s
+<br>-Descrição: Ferramenta de auxilio para pessoas que sofrem agressão e precisam de apoio.
+<br>-Alunos: Gabriel Silva e Nelson Baldo.
+<br>-Curso: Análise e Desenvolvimento de Sistemas
+<br>-Pitch do Projeto: (https://youtu.be/2k_lLjrqsds)
+<br>-Trello: (https://trello.com/b/rNPdgnBw/quadro-workers)
+<br>-Github: (https://github.com/NelsonGSBaldo/Helpers)      
   
 [DESPAUSE] - WORC
 <br>-Descrição: Worc é um jogo digital de estratégia e multijogador onde os jogadores buscam dominação dos terrenos.
