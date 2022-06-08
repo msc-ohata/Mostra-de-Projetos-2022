@@ -119,10 +119,11 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Pitch do Projeto: <a href="https://youtu.be/uMJwl89Aa5s">https://youtu.be/uMJwl89Aa5s</a>
   
 #[WORKER´S] - HELPER´S
+  
 <br>-Descrição: Ferramenta de auxilio para pessoas que sofrem agressão e precisam de apoio.
 <br>-Alunos: Gabriel Silva e Nelson Baldo.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
-<br>-Pitch do Projeto: <a href="https://youtu.be/uMJwl89Aa5s">https://youtu.be/uMJwl89Aa5s</a>            
+<br>-Pitch do Projeto: <a href="https://youtu.be/2k_lLjrqsds">https://youtu.be/2k_lLjrqsds</a>   
   
 #[DESPAUSE] - WORC
 <br>-Descrição: Worc é um jogo digital de estratégia e multijogador onde os jogadores buscam dominação dos terrenos.
