@@ -55,7 +55,7 @@ Após assistir a apresentação de um grupo, faça a avaliação atribuindo uma 
 <br>-Descrição: Plataforma dedicada a aprendizagem através de cursos e debates sobre temas educacionais.
 <br>-Alunos: Eliandro Freitas, Gabriel Baran, Leonardo Campos e Paulo Henrique.
 <br>-Curso: Análise e Desenvolvimento de Sistemas
-<br>-Pitch do Projeto: (https://www.youtube.com/watch?v=Z5Y39Sc6iHc)
+<br>-Pitch do Projeto: <a href="https://www.youtube.com/watch?v=Z5Y39Sc6iHc">https://www.youtube.com/watch?v=Z5Y39Sc6iHc</a>
 <br>-Trello: (https://trello.com/b/oB3w9DYd/datapush)
 <br>-Github: (https://github.com/leocmps/datapush.thoth.app.web)    
 
